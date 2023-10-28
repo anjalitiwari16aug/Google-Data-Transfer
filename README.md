@@ -1,8 +1,7 @@
 # Google-Transfer
 Transfer Google data from one account to another.
 
-| WARNING: This app is neither created nor endorsed by Google. |
-| --- |
+
 
 ## Transferable data and service
 * YouTube **(works, but API quota's is limited)**
